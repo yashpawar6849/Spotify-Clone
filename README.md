@@ -3,7 +3,7 @@
 A simple and visually appealing Spotify Clone created using HTML, CSS, and JavaScript.
 
 ## Live Demo
-Check out the live demo of the project [here](https://github.com/yashpawar6849/Spotify-Clone)
+Check out the live demo of the project [here](https://yashpawar6849.github.io/Spotify-Clone/)
 
 ## Features ✨
 
